@@ -1,1 +1,2 @@
-asdlsl
+<?php
+echo 'a.php';
